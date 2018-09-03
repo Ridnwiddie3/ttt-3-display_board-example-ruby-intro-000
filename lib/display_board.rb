@@ -1,5 +1,5 @@
-board = ["   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   "]
+tttboard=["   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   "]
 
 def display_board
-  puts board
+  puts tttboard
 end
