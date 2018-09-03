@@ -1,4 +1,8 @@
-tttboard=["   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   ",|"   "]
 def display_board
-  puts tttboard
+  puts ""Welcome to Tic Tac Toe"
+  puts "   |    |   "
+  -----------
+  puts "   |    |   "
+  -----------
+  puts "   |    |   "
 end
